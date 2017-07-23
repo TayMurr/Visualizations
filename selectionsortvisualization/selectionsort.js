@@ -1,4 +1,5 @@
-
+/* Author: Taylor Murray
+*/
 var heights = [];
 var resetHeights = [];
 var i = 0;
